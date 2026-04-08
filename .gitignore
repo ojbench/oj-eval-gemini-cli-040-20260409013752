@@ -3,3 +3,4 @@ CMakeCache.txt
 code
 Makefile
 cmake_install.cmake
+__pycache__/
